@@ -7,7 +7,7 @@ import Services from "@/components/Services";
 
 export default function Home() {
   return (
-    <div className="container mx-auto items-center justify-items-center font-[family-name:var(--font-geist-sans)]">
+    <div className="container mx-auto font-[family-name:var(--font-geist-sans)] ">
       <Navbar />
       <Hero />
       <About /> 
