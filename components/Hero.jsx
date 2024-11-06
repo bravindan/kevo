@@ -12,7 +12,7 @@ export default function Hero() {
   return (
     <div
       id="home"
-      className="flex flex-col md:flex-row items-center container mx-auto  w-full min-h-[90vh] p-8 bg-gradient-to-r from-red-400 to-transparent"
+      className="flex flex-col md:flex-row items-center   w-full min-h-[90vh] p-8 bg-gradient-to-r from-red-400 to-transparent"
     >
       <main className='flex items-center justify-between flex-col md:flex-row gap-2'>
 

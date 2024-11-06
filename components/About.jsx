@@ -23,7 +23,7 @@ const skills = [
 
 export default function About() {
   return (
-    <div id="about" className="flex container mx-auto w-full min-h-[100vh] bg-gradient-to-l from-red-400 to-transparent ">
+    <div id="about" className="flex w-full min-h-[100vh] bg-gradient-to-l from-red-400 to-transparent ">
       <div className="mt-16 scroll-mt-16 ">
         <div className="py-16 ">
           <div className="container m-auto px-6 md:px-12 xl:px-6">

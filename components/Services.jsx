@@ -4,12 +4,12 @@ export default function Services() {
   return (
     <div
       id="services"
-      className="flex container mx-auto bg-gradient-to-r from-red-400 to-transparent w-full min-h-[100vh] "
+      className=" flex bg-gradient-to-r from-red-400 to-transparent w-full min-h-[100vh] "
     >
       <div className="mt-16 scroll-mt-16 p-2">
         <section className=" body-font mb-5">
           <div className="container px-5  mx-auto">
-            <h1 className="sm:text-3xl text-2xl font-bold title-font text-center  mb-10">
+            <h1 className="sm:text-3xl text-2xl font-bold title-font text-center  mb-32">
               What I do
               <br className="hidden sm:block" />
               {/* Selfies Wayfarers */}
@@ -32,9 +32,9 @@ export default function Services() {
                     <svg
                       fill="none"
                       stroke="currentColor"
-                      stroke-linecap="round"
-                      stroke-linejoin="round"
-                      stroke-width="2"
+                      strokeLinecap="round"
+                      strokeLinejoin="round"
+                      strokeWidth="2"
                       className="w-4 h-4 ml-2"
                       viewBox="0 0 24 24"
                     >
@@ -61,9 +61,9 @@ export default function Services() {
                     <svg
                       fill="none"
                       stroke="currentColor"
-                      stroke-linecap="round"
-                      stroke-linejoin="round"
-                      stroke-width="2"
+                      strokeLinecap="round"
+                      strokeLinejoin="round"
+                      strokeWidth="2"
                       className="w-4 h-4 ml-2"
                       viewBox="0 0 24 24"
                     >
@@ -90,10 +90,10 @@ export default function Services() {
                     <svg
                       fill="none"
                       stroke="currentColor"
-                      stroke-linecap="round"
-                      stroke-linejoin="round"
-                      stroke-width="2"
-                      class="w-4 h-4 ml-2"
+                      strokeLinecap="round"
+                      strokeLinejoin="round"
+                      strokeWidth="2"
+                      className="w-4 h-4 ml-2"
                       viewBox="0 0 24 24"
                     >
                       <path d="M5 12h14M12 5l7 7-7 7"></path>
