@@ -35,8 +35,8 @@ export default function Hero() {
             />
         </span>
       </h2>
-        <p className="text-lg mb-6 md:px-4 animate__animated animate__bounceInUp animate__delay-2s">
-          We provide exceptional services to help your business grow. Explore our offerings and reach out for more information.
+        <p className="text-lg mb-6 md:px-4 animate__animated animate__zoomIn animate__delay-2s">
+          I provide exceptional services to help you achieve your fitness goals. Let us work together to make your dream a reality and live a healthy life.
         </p>
         {/* Social Media Links */}
         <div className="flex space-x-4 md:px-4 animate__animated animate__flipInX animate__delay-3s">
