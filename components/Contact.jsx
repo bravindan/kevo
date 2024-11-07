@@ -4,10 +4,11 @@ export default function Contact() {
   return (
     <div
       id="contact"
-      className="-mt-0 w-full min-h-[100vh] bg-gradient-to-l from-red-400 to-transparent "
+      className="-mt-0 w-full min-h-[100vh] bg-gradient-to-l from-orange-400 to-transparent "
     >
       <div className="scroll-mt-16 p-2 ">
         <div className="container flex flex-col items-center gap-16 mx-auto my-12 ">
+          <section className="mt-8">
           <h1 className="sm:text-3xl text-2xl font-bold title-font text-center pt-3 mb-4">
             Get in touch
             <br className="hidden sm:block" />
@@ -32,11 +33,11 @@ export default function Contact() {
                 Email
               </p>
               <p className="text-base leading-7 text-dark-grey-600">
-                Contact us at
+                Contact me at
               </p>
               <a
                 className="text-lg font-bold "
-                href="mailto: danielbravin0@gmail.com"
+                href="mailto: kevoly1992@gmail.com"
               >
                 Tap here to send mail
               </a>
@@ -106,6 +107,7 @@ export default function Contact() {
               </a>
             </div>
           </div>
+          </section>
         </div>
       </div>
     </div>

@@ -4,12 +4,12 @@ export default function Services() {
   return (
     <div
       id="services"
-      className=" flex bg-gradient-to-r from-red-400 to-transparent w-full min-h-[100vh] "
+      className=" flex bg-gradient-to-r from-orange-400 to-transparent w-full min-h-[100vh] "
     >
       <div className="mt-16 scroll-mt-16 p-2">
         <section className=" body-font mb-5">
-          <div className="container px-5  mx-auto">
-            <h1 className="sm:text-3xl text-2xl font-bold title-font text-center  mb-32">
+          <div className="container px-5 mt-6 mx-auto">
+            <h1 className="sm:text-3xl text-2xl font-bold title-font text-center  mb-20">
               What I do
               <br className="hidden sm:block" />
               {/* Selfies Wayfarers */}
