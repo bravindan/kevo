@@ -71,7 +71,7 @@ export default function Contact() {
               </a>
               <a
                 className="text-lg font-bold "
-                href="https://wa.me/11234567890?text=Hello%20I%20would%20like%20to%20learn%20more%20about%20your%20services" target="_blank"
+                href="https://wa.me/+254705598996?text=Hello%20I%20would%20like%20to%20learn%20more%20about%20your%20services" target="_blank"
               >
                 WhatsApp
               </a>

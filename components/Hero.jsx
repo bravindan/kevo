@@ -21,7 +21,7 @@ export default function Hero() {
         <h1 className="text-3xl md:text-4xl md:px-4 font-bold mb-4 mt-16 md:mt-1 animate__animated animate__backInUp">Kevin Onyango</h1>
         <h2 className='md:px-4 mb-3 font-semibold text-2xl animate__animated animate__fadeInLeft animate__delay-1s'>
           I am a{' '}
-          <span className='font-semibold text-red-500 dark:text-black mb-2'>
+          <span className='font-semibold text-red-500 dark:text-black'>
             {/* Style will be inherited from the parent element */}
             <Typewriter
               words={['fitness coach', 'gym instructor', 'martial artist']}
@@ -34,7 +34,7 @@ export default function Hero() {
               
             />
         </span>
-        <p className='font-medium text-sm bg-black/40 p-1 w-[240] rounded-full'>Certified by : Nairobi Zoezi school</p>
+        <p className='font-medium font-serif text-sm bg-black/40 p-1 w-[240] rounded-full'>Certified by : Nairobi Zoezi school</p>
       </h2>
         <h4 className="text-lg gap-4 mb-6 md:px-4 animate__animated animate__zoomIn animate__delay-2s">
           <p className=''>
